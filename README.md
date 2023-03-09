@@ -7,7 +7,8 @@ These are basic machine learning projects that you can learn quickly.
 Consider a situation where you want to buy a house or sell a house, or you are moving to a new city and want to rent a house, but you don’t know where to start. Sometimes, it happens that you know where to start, but you doubt the credibility of the source.
 Well, some people from Microsoft also felt the need of creating a reliable place that could provide all this information online, and “Zillow” was born in 2006.
 A few years later, Zillow introduced a feature called “Zestimate”, which has completely changed the market.
-Zestimate is a tool that provides the worth of the house based on various attributes like public data, sales data, etc. Zestimate has information of more than 97 million homes.
+Zestimate is a tool that provides the worth of the house based on various attributes like public data, sales data, etc.
+Zestimate has information of more than 97 million homes.
 
 **Project Idea**: 
                  In this Machine Learning project for final year students, you will use the Zillows Economics dataset to build a house price prediction model with XGBoost based on factors like average income, crime rate, number of hospitals, number of schools, etc. 
