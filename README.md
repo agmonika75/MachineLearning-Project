@@ -25,7 +25,7 @@ Thus, we have added a project that will introduce unsupervised machine learning 
                  This model helps BigMart understand the properties of products and stores that play an important role in increasing their overall sales.
 
 3)  **Music Recommendation System ML Project**:
-This is one of the most popular machine learning projects and can be used across different domains. You might be very familiar                                         r with a recommendation system if you've used any E-commerce site or Movie/Music website.
+This is one of the most popular machine learning projects and can be used across different domains. You might be very familiar                                          With a recommendation system if you've used any E-commerce site or Movie/Music website.
 In most E-commerce sites like Amazon, at the time of checkout, the system will recommend products that can be added to your cart. 
 Similarly on Netflix or Spotify, based on the movies you've liked, it will show similar movies or songs that you may like. How does the system do this? 
 This is a classic example where Machine Learning can be applied.
