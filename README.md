@@ -23,7 +23,7 @@ Thus, we have added a project that will introduce unsupervised machine learning 
                  The goal of the BigMart sales prediction ML project is to build a regression model to predict the sales of each of 1559 products for the following year in each of the 10 different BigMart outlets.
                  The BigMart sales dataset also consists of certain attributes for each product and store.  
                  This model helps BigMart understand the properties of products and stores that play an important role in increasing their overall sales.
-
+2
 3)  **Music Recommendation System ML Project**:
 This is one of the most popular machine learning projects and can be used across different domains. You might be very familiar                                          With a recommendation system if you've used any E-commerce site or Movie/Music website.
 In most E-commerce sites like Amazon, at the time of checkout, the system will recommend products that can be added to your cart. 
