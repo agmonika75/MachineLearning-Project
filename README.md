@@ -1,6 +1,7 @@
 # **Machine Learning Projects for Beginners**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This section has cool machine learning projects that newcomers in the domain of machine learning should try. These are basic machine learning projects that you can learn quickly.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 1)**Zillow Home Value Prediction ML Project**:
