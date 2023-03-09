@@ -1,4 +1,4 @@
-# **Machine Learning Projects for Beginners**
+# **Machine Learning Projects**
 This section has cool machine learning projects that newcomers in the domain of machine learning should try.
 These are basic machine learning projects that you can learn quickly.
 
