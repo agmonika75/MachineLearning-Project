@@ -36,4 +36,5 @@ This is a classic example where Machine Learning can be applied.
                  The primary task is to predict the chances of a user listening to a song repetitively within a time frame.
                  In the dataset, the prediction is marked as 1 if the user has listened to the same song within a month.
                  The dataset consists of which song has been heard by which user and at what time.
-                 Use classification machine learning algorithms to solve this classification problem and as a challenge, try using deep learning algorithms like neural network.
+                 Use classification machine learning algorithms to solve this classification problem and as a challenge, 
+                 try using deep learning algorithms like neural network.
