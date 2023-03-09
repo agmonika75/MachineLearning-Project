@@ -1,5 +1,5 @@
 # **Machine Learning Projects**
-This section has cool machine learning projects that newcomers in the domain of machine learning should try.
+This section has cool machine learning projects that new comers in the domain of machine learning should try.
 These are basic machine learning projects that you can learn quickly.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -20,7 +20,7 @@ Thus, we have added a project that will introduce unsupervised machine learning 
 
 **Project Idea**: 
                  BigMart sales dataset consists of 2013 sales data for 1559 products across 10 different outlets in different cities.
-                 The goal of the BigMart sales prediction ML project is to build a regression model to predict the sales of each of 1559 products for the following year in each of the 10 different BigMart outlets.
+                 The goal of the BigMart sales prediction ML project is to build a regression model to predict the sales of each of 1559 products for the following    year in each of the 10 different BigMart outlets.
                  The BigMart sales dataset also consists of certain attributes for each product and store.  
                  This model helps BigMart understand the properties of products and stores that play an important role in increasing their overall sales.
 
